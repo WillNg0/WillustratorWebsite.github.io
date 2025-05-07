@@ -1,7 +1,7 @@
 {
   "homepage": "https://WillNg0.github.io/WillustratorWebsite.github.io",
   "name": "willustratorsite",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
